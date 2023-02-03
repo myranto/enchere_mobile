@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "414756695586",
+    "project_id": "enchere-94c38",
+    "storage_bucket": "enchere-94c38.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414756695586:android:caf23e9ad7d814d4b0a47b",
+        "android_client_info": {
+          "package_name": "enchere.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "414756695586-v88b8qir5tc5755qv7c9l01go6oto24h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHxTXCxA3-06tz3r5MoXYG0-auGmdBWsM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "414756695586-v88b8qir5tc5755qv7c9l01go6oto24h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
